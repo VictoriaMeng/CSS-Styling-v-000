@@ -9,9 +9,7 @@ selector {
 
 /* Type selector */
 
-<style>
-@import url('https://fonts.googleapis.com/css?family=Elsie');
-</style>
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script|Elsie');
 
 p { /*select all <p> */
   font-size: 1em; /* could be set in pixels, points, percentages, ems; 1em = 16px, easiest to use */
@@ -25,4 +23,8 @@ figcaption {
   font-family: Georgia, "New Times Roman", serif; /* Quotes should be used for values with spaces */
   font: normal 0.75em/1.5em Georgia, "New Times Roman", serif;
   color: #000000;
+}
+
+.milk-text {
+
 }
