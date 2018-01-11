@@ -9,6 +9,10 @@ selector {
 
 /* Type selector */
 
+<style>
+@import url('https://fonts.googleapis.com/css?family=Elsie');
+</style>
+
 p { /*select all <p> */
   font-size: 1em; /* could be set in pixels, points, percentages, ems; 1em = 16px, easiest to use */
   line-height: 1.5em;
@@ -19,9 +23,6 @@ figcaption {
   font-size: 0.75em;
   line-height: 1.5em;
   font-family: Georgia, "New Times Roman", serif; /* Quotes should be used for values with spaces */
-  font: normal 0.75em/1.5em Georgia, "New Times Roman", serif; 
+  font: normal 0.75em/1.5em Georgia, "New Times Roman", serif;
   color: #000000;
 }
-
-
-
