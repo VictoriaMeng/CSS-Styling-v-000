@@ -43,4 +43,6 @@ figcaption {
   font-family: 'Elsie Swash Caps', cursive;
 }
 
-#details a:link 
+#details a:link {
+  color: black;
+}
